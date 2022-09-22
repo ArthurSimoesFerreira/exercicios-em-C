@@ -16,6 +16,7 @@ void preencherMatriz(int N, int matriz[N][N]) {
     }
 }
 
+//
 void verificarInconsistencias(int N, int matriz[N][N]) {
   int contador = 1, i = 0, j = 1, inconsistencias = 0;
   while (i < N) {

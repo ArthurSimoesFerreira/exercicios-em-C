@@ -48,4 +48,6 @@ int main(void) {
   printf("A matriz:\n");
   escreverMatriz(N, matriz);
   verificarInconsistencias(N, matriz);
+
+  return 0;
 }
